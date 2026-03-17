@@ -1,0 +1,17 @@
+{
+  "name": "DonutWare Source",
+  "identifier": "com.donutware.source",
+  "apps": [
+    {
+      "name": "Fladder",
+      "bundleIdentifier": "nl.jknaapen.fladder",
+      "developerName": "DonutWare",
+      "version": "0.10.2",
+      "versionDate": "2026-03-16",
+      "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.10.2/Fladder-iOS-0.10.2.ipa",
+      "localizedDescription": "A simple cross-platform Jellyfin frontend built on top of Flutter.",
+      "iconURL": "https://raw.githubusercontent.com/DonutWare/Fladder/develop/icons/production/fladder_macos_icon.png",
+      "size": 40000000
+    }
+  ]
+}
