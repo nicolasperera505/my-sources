@@ -1,7 +1,19 @@
 {
-  "name": "DonutWare Source",
-  "identifier": "com.donutware.source",
+  "name": "nic",
+  "identifier": "com.nic.source",
   "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "com.declaration.feather",
+      "developerName": "Khcryz",
+      "version": "2.6.0",
+      "versionDate": "2024-12-14",
+      "versionDescription": "Initial release of Feather v2.6.0",
+      "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.6.0/Feather_2.6.0.ipa",
+      "localizedDescription": "A free and open-source iOS on-device signer.",
+      "iconURL": "https://raw.githubusercontent.com/CLARATION/Feather/main/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+      "size": 0
+    },
     {
       "name": "Fladder",
       "bundleIdentifier": "nl.jknaapen.fladder",
